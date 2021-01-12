@@ -1,0 +1,11 @@
+Filename: data\original\egg.bmp
+Entropy = 5.724225
+
+Filename: data\original\landscape.bmp
+Entropy = 7.420549
+
+Filename: data\original\pattern.bmp
+Entropy = 1.829223
+
+Filename: data\original\zebra.bmp
+Entropy = 5.831240
